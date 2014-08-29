@@ -1,0 +1,11 @@
+C:\Users\bnlake\AppData\Local\Temporary Projects\Ch05Ex03\bin\Debug\Ch05Ex03.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\bin\Debug\Ch05Ex03.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\bin\Debug\Ch05Ex03.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\bin\Debug\Ch05Ex03.pdb
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\bin\Debug\Ch05Ex03.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\obj\Debug\Ch05Ex03.Resources.resources
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\obj\Debug\Ch05Ex03.vbproj.GenerateResource.Cache
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\obj\Debug\Ch05Ex03.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\obj\Debug\Ch05Ex03.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\obj\Debug\Ch05Ex03.pdb
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex03\Ch05Ex03\obj\Debug\Ch05Ex03.vbprojResolveAssemblyReference.cache

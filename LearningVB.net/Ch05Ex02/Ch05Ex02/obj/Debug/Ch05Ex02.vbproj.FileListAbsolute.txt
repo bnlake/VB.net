@@ -1,0 +1,10 @@
+C:\Users\bnlake\AppData\Local\Temporary Projects\Ch05Ex02\bin\Debug\Ch05Ex02.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.Resources.resources
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.vbproj.GenerateResource.Cache
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.pdb
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.pdb

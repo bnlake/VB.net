@@ -1,0 +1,2 @@
+C:\Users\bnlake\AppData\Local\Temporary Projects\LearningVB.net\bin\Debug\LearningVB.net.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\LearningVB.net\LearningVB.net\bin\Debug\LearningVB.net.exe.config

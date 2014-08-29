@@ -1,0 +1,14 @@
+C:\Users\bnlake\AppData\Local\Temporary Projects\Ch05Ex1\bin\Debug\Ch05Ex1.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\bin\Debug\Ch05Ex1.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\bin\Debug\Ch05Ex1.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\bin\Debug\Ch05Ex1.pdb
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\bin\Debug\Ch05Ex1.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.Resources.resources
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.vbproj.GenerateResource.Cache
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.pdb
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex1\Ch05Ex1\bin\Debug\Ch05Ex1.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex1\Ch05Ex1\obj\Debug\Ch05Ex1.pdb
