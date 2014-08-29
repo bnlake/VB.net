@@ -1,2 +1,3 @@
 C:\Users\bnlake\AppData\Local\Temporary Projects\Ch05Ex10\bin\Debug\Ch05Ex10.exe.config
 D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.exe.config
+E:\Projects\Github\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.exe.config
