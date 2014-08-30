@@ -1,3 +1,13 @@
 C:\Users\bnlake\AppData\Local\Temporary Projects\Ch05Ex10\bin\Debug\Ch05Ex10.exe.config
 D:\Users\bnlake\Google Drive\Programming\Visual Basic\Projects\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.exe.config
 E:\Projects\Github\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.exe.config
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.pdb
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\bin\Debug\Ch05Ex10.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\obj\Debug\Ch05Ex10.vbprojResolveAssemblyReference.cache
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\obj\Debug\Ch05Ex10.Resources.resources
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\obj\Debug\Ch05Ex10.vbproj.GenerateResource.Cache
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\obj\Debug\Ch05Ex10.exe
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\obj\Debug\Ch05Ex10.xml
+D:\Users\bnlake\Google Drive\Programming\Visual Basic\VB.net\LearningVB.net\Ch05Ex10\Ch05Ex10\obj\Debug\Ch05Ex10.pdb
