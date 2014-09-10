@@ -32,7 +32,7 @@ Public Class Tester
 
 End Class 'Tester
 
-Module PassingValue
+Module Module1
 
 	Sub Main()
 		Dim t As New Tester

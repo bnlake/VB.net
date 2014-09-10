@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C927A931-6A91-4BE1-AF5C-E2BF40A880EA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Ch05Ex10.Properties</StartupObject>
+    <StartupObject>Ch05Ex10.Module1</StartupObject>
     <RootNamespace>Ch05Ex10</RootNamespace>
     <AssemblyName>Ch05Ex10</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -66,7 +66,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties.vb" />
+    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
